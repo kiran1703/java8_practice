@@ -15,7 +15,6 @@ public class ComparingDatesPeriodExample {
         System.out.println(p1.getMonths());
         System.out.println(p1.getYears());
 
-
         Period p2=Period.ofDays(50);
         Period p3=Period.ofMonths(10);
         Period p4=Period.ofYears(10);
